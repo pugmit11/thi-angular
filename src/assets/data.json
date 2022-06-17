@@ -1,0 +1,137 @@
+{
+  "data": {
+    "categories": [
+      {
+        "name": "Margaret",
+        "childs": [
+          {
+            "title": "Title",
+            "des": "Sales"
+          },
+          {
+            "name": "Hire Date",
+            "des": "10/11/1997"
+          },
+          {
+            "name": "Address",
+            "des": "Lang"
+          },
+          {
+            "name": "City",
+            "des": "Ha Noi"
+          },
+          {
+            "name": "Phone",
+            "des": "123456"
+          }
+
+        ]
+      },
+      {
+        "name": "Laura",
+        "childs": [
+          {
+            "title": "Title",
+            "des": "Sales"
+          },
+          {
+            "name": "Hire Date",
+            "des": "10/11/1997"
+          },
+          {
+            "name": "Address",
+            "des": "Lang"
+          },
+          {
+            "name": "City",
+            "des": "Ha Noi"
+          },
+          {
+            "name": "Phone",
+            "des": "123456"
+          }
+
+        ]
+      },
+      {
+        "name": "Robert",
+        "childs": [
+          {
+            "title": "Title",
+            "des": "Sales"
+          },
+          {
+            "name": "Hire Date",
+            "des": "10/11/1997"
+          },
+          {
+            "name": "Address",
+            "des": "Lang"
+          },
+          {
+            "name": "City",
+            "des": "Ha Noi"
+          },
+          {
+            "name": "Phone",
+            "des": "123456"
+          }
+
+        ]
+      },
+      {
+        "name": "Albert",
+        "childs": [
+          {
+            "title": "Title",
+            "des": "Sales"
+          },
+          {
+            "name": "Hire Date",
+            "des": "10/11/1997"
+          },
+          {
+            "name": "Address",
+            "des": "Lang"
+          },
+          {
+            "name": "City",
+            "des": "Ha Noi"
+          },
+          {
+            "name": "Phone",
+            "des": "123456"
+          }
+
+        ]
+      },
+      {
+        "name": "Michale",
+        "childs": [
+          {
+            "title": "Title",
+            "des": "Sales Repsentive"
+          },
+          {
+            "name": "Hire Date",
+            "des": "10/5/1996"
+          },
+          {
+            "name": "Address",
+            "des": "7 Houndstooth Rb"
+          },
+          {
+            "name": "City",
+            "des": "London"
+          },
+          {
+            "name": "Phone",
+            "des": "555444"
+          }
+
+        ]
+      }
+    ]
+
+  }
+}
